@@ -1,0 +1,17 @@
+{
+    "name": "dowake/request",
+    "description": "PHP网络请求类，对cURL提供的功能进行简单封装，支持单线程请求、多线程请求。",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DoWake\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "DoWake",
+        "email": "298666015@qq.com"
+    }],
+    "minimum-stability": "stable",
+    "require": {}
+}
